@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    font-family: "Open Sans";
+    min-height: 100vh;
+}
+
+footer {
+    height: 50px; /* altura do footer */
+    background-color: #bbb;
+    color: #fff;
+    text-align: center;
+    opacity: 0.3;
+}
